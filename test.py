@@ -1,6 +1,6 @@
 from src.car_price_prediction.logger import logging
 from src.car_price_prediction.exception import CustomException
-from src.car_price_prediction.data_ingestion import DataIngestion
+from src.car_price_prediction.components.data_ingestion import DataIngestion
 from src.car_price_prediction.components.data_ingestion import DataIngestionConfig
 import sys
 

@@ -1,7 +1,7 @@
 import os 
 import sys
-from src.crop_recommendation.logger import logging
-from src.crop_recommendation.exception import CustomException
+from src.car_price_prediction.logger import logging
+from src.car_price_prediction.exception import CustomException
 import pandas as pd
 import pymysql 
 from dotenv import load_dotenv
